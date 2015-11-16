@@ -1,0 +1,16 @@
+/* 
+  localize.strings
+  InternationalizeDemo
+
+  Created by Fillinse on 15/11/13.
+  Copyright © 2015年 app. All rights reserved.
+*/
+
+"first" = "First";
+"second" = "Second";
+
+"rx" = "I just so wilful！";
+
+"push" = "Push";
+
+"hrx" = "I always so wilful!";

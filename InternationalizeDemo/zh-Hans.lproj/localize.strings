@@ -1,0 +1,17 @@
+/* 
+  localize.strings
+  InternationalizeDemo
+
+  Created by Fillinse on 15/11/13.
+  Copyright © 2015年 app. All rights reserved.
+*/
+
+
+"first" = "首页";
+"second" = "第二页";
+
+"rx" = "我就是这么任性！";
+
+"push" = "跳转";
+
+"hrx" = "我总是这么任性！";
